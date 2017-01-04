@@ -1,2 +1,2 @@
 # DependencyDiscoverer
-Multi-threaded C program file dependency discoverer written in C
+Multi-threaded Java program  dependency discoverer for C files
